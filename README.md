@@ -31,7 +31,7 @@
 
 [![MaiDormo GitHub Streak](https://streak-stats.demolab.com?user=Maidormo&theme=dark)](https://git.io/streak-stats)
 [![MaiDormo's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaiDormo&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radious=10)](https://github.com/anuraghazra/github-readme-stats)
- 
+[![MaiDormo's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaiDormo&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats)
 
 <!--
 **MaiDormo/MaiDormo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
