@@ -23,8 +23,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,github,git,bash,linux" />
-    <img src="https://skillicons.dev/icons?i=python,c++,mysql,dart,rust" /><br>
+    <img src="https://skillicons.dev/icons?i=vscode,github,git,linux,windows" />
+    <img src="https://skillicons.dev/icons?i=python,cpp,mysql,dart,flutter,rust,bash" /><br>
 </div>
 
  <hr/>
