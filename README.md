@@ -29,9 +29,8 @@
 
  <hr/>
 
-###⚡ Stats ⚡
 [![GitHub Streak](https://streak-stats.demolab.com?user=Maidormo&theme=dark)](https://git.io/streak-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaiDormo)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaiDormo&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radious=10)](https://github.com/anuraghazra/github-readme-stats)
  
 
 <!--
