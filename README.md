@@ -11,6 +11,7 @@
 🚀 Driven by a love of new technologies and a desire to innovate impactful projects
 
 📧 Feel free to connect with me or reach out via email:
+
 (Personal Email) elia.gatti01@gmail.com | 
 (University Email) elia.gatti@studenti.unitn.it
 
