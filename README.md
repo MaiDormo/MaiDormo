@@ -36,7 +36,7 @@
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 
 ### HPC and GPU Programming
-![Cuda](https://img.shields.io/badge/Cuda-%23A8B9CC.svg?style=for-the-badge&logo=NVIDIA&logoColor=green)
+![Cuda](https://img.shields.io/badge/Cuda-%23A8B9CC.svg?style=for-the-badge&logo=NVIDIA&logoColor=white)
 ![MPI](https://img.shields.io/badge/MPI-%23DB7093.svg?style=for-the-badge&logo=MPI&logoColor=white)
 ![OpenMP](https://img.shields.io/badge/OpenMP-%23DB7093.svg?style=for-the-badge&logo=OpenMP&logoColor=white)
 
