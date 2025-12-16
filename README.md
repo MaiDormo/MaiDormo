@@ -4,5 +4,5 @@
 </p>
 
 <div align="center">
-  <img align="center" src="https://leetcard.jacoblin.cool/Maidormo?theme=nord&ext=activity" />
+  <img align="center" src="https://leetcard.jacoblin.cool/Maidormo?theme=nord&ext=contest" />
 </div>
