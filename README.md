@@ -4,5 +4,5 @@
 </p>
 
 <div align="center">
-  ![Leetcode Stats](https://leetcard.jacoblin.cool/yourusername?theme=dark&font=Karma&ext=contest)
+  <img align="center" src="https://leetcard.jacoblin.cool/yourusername?theme=dark&font=Karma&ext=contest" />
 </div>
