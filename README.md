@@ -4,5 +4,5 @@
 </p>
 
 <div align="center">
-  <img align="center" src="https://leetcard.jacoblin.cool/Maidormo?theme=dark&font=Karma&ext=contest" />
+  <img align="center" src="https://leetcard.jacoblin.cool/Maidormo?" />
 </div>
