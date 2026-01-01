@@ -4,9 +4,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MaiDormo" alt="MaiDormo" /></a> </p>
 
-- 🔭 I'm currently working on **University project that range from Distributed Systems, Low-Power IOT, GPU programming and Service Design Engineering. **
+- 🔭 I'm currently working on **University project that range from Distributed Systems, Low-Power IOT, GPU programming and Service Design Engineering.**
 
-- 🌱 I'm currently learning **Java (Personal Intereset, Leetcode), C (LPIOT, GPU programming), Python (Data analysis). **
+- 🌱 I'm currently learning **Java** (Personal Intereset, Leetcode), **C** (LPIOT, GPU programming), **Python** (Data analysis).
 
 - 👯 I'm looking to collaborate on **open source projects**
 
