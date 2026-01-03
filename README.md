@@ -1,6 +1,6 @@
 # Hi 👋, I'm Elia Gatti
 
-### A passionate Java developer
+### A passionate Software developer
 
 - 🔭 I'm currently working on University project that range from **Distributed Systems**, **Low-Power IOT**, **GPU programming** and **Service Design Engineering**.
 
