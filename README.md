@@ -6,8 +6,6 @@
 
 - 🌱 I'm currently learning **Java** (Personal Intereset, Leetcode), **C** (LPIOT, GPU programming), **Python** (Data analysis).
 
-- 👯 I'm looking to collaborate on **open source projects**
-
 - 📫 How to reach me **elia.gatti01@gmail.com**
 
 - 👨‍💻 Portfolio **[https://maidormo.github.io](https://maidormo.github.io)**
