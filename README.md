@@ -1,6 +1,6 @@
 # Elia Gatti
 
-Master’s student in Computer Science — University of Trento  
+Master’s student in Computer Science @ University of Trento  
 HPC · GPU programming · Distributed systems
 
 ---
