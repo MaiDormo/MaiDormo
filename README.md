@@ -3,7 +3,7 @@
 Master's student in Computer Science at the University of Trento.
 HPC and GPU software engineer: CUDA kernels, MPI graph algorithms, distributed systems.
 
-## Now
+## Recently
 
 Software Engineer Intern at [Bitmovin](https://bitmovin.com), Klagenfurt, June–Sept 2026.
 Shipped [KAIROS](https://kairosapp.tech), AI highlight detection and segmentation for sports, news and podcasts.
