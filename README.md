@@ -5,7 +5,7 @@ HPC and GPU software engineer: CUDA kernels, MPI graph algorithms, distributed s
 
 ## Recently
 
-Software Engineer Intern at [Bitmovin](https://bitmovin.com), Klagenfurt, June–Sept 2026.
+Ex Software Engineer Intern at [Bitmovin](https://bitmovin.com).
 Shipped [KAIROS](https://kairosapp.tech), AI highlight detection and segmentation for sports, news and podcasts.
 
 ## Work worth reading
