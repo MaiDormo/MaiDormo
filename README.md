@@ -21,8 +21,8 @@ podcasts: live/VOD, sport understanding, orchestration, and a public MCP API.
 - [cuda-SpMV](https://github.com/MaiDormo/cuda-SpMV): hybrid adaptive A30 kernel combining
   thread-per-row and warp-per-row CSR; diagnosed the overscheduling failure that motivated the
   thesis
-- [parallel-mst](https://github.com/MaiDormo/parallel-mst): MPI+OpenMP Borůvka with flat CSR and
-  mmap I/O, reducing disk and communication bottlenecks on cluster nodes
+- [parallel-mst](https://github.com/MaiDormo/parallel-mst): MPI+OpenMP Borůvka MST with a flat
+  adjacency matrix and mmap I/O; measured 2-32 rank scaling on one 64-core node
 - [distributed-storage-system](https://github.com/MaiDormo/distributed-storage-system):
   Akka/Java 21 key-value store with consistent hashing, N/W/R quorums and node-failure recovery
 - [DWT-SVD-watermarking](https://github.com/MaiDormo/DWT-SVD-watermarking): 1st of 11 teams,
