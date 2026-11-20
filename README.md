@@ -7,7 +7,7 @@ GPU, HPC and distributed systems. EU citizen, available March 2027.
 
 **dist-patoh** — a distributed multilevel hypergraph partitioner in C++20/CUDA/MPI.
 126/126 cluster runs passed; bit-exact GPU coarsening 5.0× faster; lossless net-dedup up to
-1,143× faster local refinement. [Case study](https://github.com/MaiDormo/dist-patoh-case-study).
+1,143× faster local refinement. Code private during thesis writing; public release after submission.
 
 ## Recently
 
@@ -17,9 +17,6 @@ podcasts: live/VOD, sport understanding, orchestration, and a public MCP API.
 
 ## Work worth reading
 
-- [dist-patoh case study](https://github.com/MaiDormo/dist-patoh-case-study) — distributed GPU
-  hypergraph partitioning: 126/126 cluster runs, 5.0× bit-exact GPU coarsening, 1,143× lossless
-  net-dedup
 - [cuda-SpMV](https://github.com/MaiDormo/cuda-SpMV) — hybrid adaptive A30 kernel: 649 GB/s
   (70% of peak), 1.10× cuSPARSE on CurlCurl_4; the mawi overscheduling failure that motivated
   the thesis
