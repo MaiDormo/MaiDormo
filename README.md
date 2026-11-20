@@ -32,9 +32,9 @@ podcasts: live/VOD, sport understanding, orchestration, and a public MCP API.
 
 ## Tools
 
-C, C++17/20, CUDA, Go, Python, Java · MPI, OpenMP, Slurm, CMake, cuSPARSE · Linux, Docker, Terraform,
+C, C++17/20, CUDA, Go, Python, Java | MPI, OpenMP, Slurm, CMake, cuSPARSE | Linux, Docker, Terraform,
 GCP, PostgreSQL, Git
 
 ## Contact
 
-[maidormo.github.io](https://maidormo.github.io) · [LinkedIn](https://www.linkedin.com/in/elia-gatti) · elia.gatti01@gmail.com
+[maidormo.github.io](https://maidormo.github.io) | [LinkedIn](https://www.linkedin.com/in/elia-gatti) | elia.gatti01@gmail.com
