@@ -1,7 +1,7 @@
 # Elia Gatti
 
 M.S. Computer Science at the University of Trento (expected March 2027).
-GPU, HPC and distributed systems. EU citizen, available March 2027.
+GPU, HPC and distributed systems. EU citizen, no sponsorship required.
 
 ## Thesis (in progress)
 
